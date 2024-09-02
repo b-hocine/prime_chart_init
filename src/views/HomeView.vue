@@ -1,7 +1,7 @@
 <script lang="ts" setup>
-import Table from "@/components/TableCompo.vue"
+import Chart from "@/components/ChartCompo.vue"
 </script>
 <template>
     <h1>Welcome !</h1>
-    <Table/>
+    <Chart/>
 </template>
